@@ -7,6 +7,7 @@
 3. Odd and Even numbers https://github.com/ElectronicsDr/Python3-Programming-Scripts/blob/main/odd_even_numbers_TEST_if_else.py
 4. Odd and Even numbers https://github.com/ElectronicsDr/Python3-Programming-Scripts/blob/main/odd_even_numbers_using%20CHECK%20dictionary.py
 5. String Swap Cases & Reverse order https://github.com/ElectronicsDr/Python3-Programming-Scripts/blob/main/string_SWAP_Cases_and_reverse_order.py
+6. Format function https://github.com/ElectronicsDr/Python3-Programming-Scripts/blob/main/format_function.py
 
 
 **IMPORT OS**
